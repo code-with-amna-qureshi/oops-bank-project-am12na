@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "name": "oop-my-bank-project-11-amna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "amna",
+  "license": "ISC",
+  "description": ""
+}
